@@ -1,0 +1,38 @@
+name: Günlük Makale Tarama
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Kodu indir
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Makale tarıyıcıyı çalıştır
+        run: python scraper.py
+
+      - name: Web sitesini güncelle
+        run: python build_site.py
+
+      - name: Değişiklikleri kaydet
+        run: |
+          git config user.name "Makale Agent"
+          git config user.email "agent@taekwondo-tracker.com"
+          git add data/ docs/
+          git diff --staged --quiet || git commit -m "🔬 Günlük tarama: $(date +'%Y-%m-%d')"
+          git push
