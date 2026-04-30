@@ -1,12 +1,34 @@
 {
-  "papers": [],
-  "seen_urls": [],
-  "last_updated": null,
+  "papers": [
+    {
+      "id": "pubmed_42050747",
+      "title": "Effect of feedback-enhanced reflective journaling on self-regulation and perceived performance among Taekwondo athletes",
+      "authors": "Seok R, Park SU, Kwak JH",
+      "date": "2026 Apr 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42050747/",
+      "source": "PubMed",
+      "added_at": "2026-04-30T02:31:59.263364"
+    },
+    {
+      "id": "pubmed_42048377",
+      "title": "Sports instructors' job insecurity and turnover intention in South Korea: A moderated mediation model of abusive supervision, work engagement, and perceived organizational support",
+      "authors": "Jeong KH, Mun H, Jeong GH",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42048377/",
+      "source": "PubMed",
+      "added_at": "2026-04-30T02:31:59.263379"
+    }
+  ],
+  "seen_urls": [
+    "https://pubmed.ncbi.nlm.nih.gov/42048377/",
+    "https://pubmed.ncbi.nlm.nih.gov/42050747/"
+  ],
+  "last_updated": "2026-04-30T02:32:06.861982",
   "stats": {
-    "total": 0,
-    "new_today": 0,
+    "total": 2,
+    "new_today": 2,
     "sources": {
-      "pubmed": 0,
+      "pubmed": 2,
       "arxiv": 0,
       "semantic_scholar": 0,
       "doaj": 0
