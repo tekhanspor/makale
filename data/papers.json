@@ -1,0 +1,15 @@
+{
+  "papers": [],
+  "seen_urls": [],
+  "last_updated": null,
+  "stats": {
+    "total": 0,
+    "new_today": 0,
+    "sources": {
+      "pubmed": 0,
+      "arxiv": 0,
+      "semantic_scholar": 0,
+      "doaj": 0
+    }
+  }
+}
