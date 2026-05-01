@@ -1,6 +1,411 @@
 {
   "papers": [
     {
+      "id": "arxiv_2604.26950v1",
+      "title": "Weighted Linearization of Vector Fields via a Formal Moser Trick",
+      "authors": "Arthur Lei Qiu",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26950v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905589"
+    },
+    {
+      "id": "arxiv_2604.26935v1",
+      "title": "Artistic Practice Opportunities in CST Evaluations: A Longitudinal Group Deployment of ArtKrit",
+      "authors": "Catherine Liu, Tao Long, Asya Vaisberg",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26935v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905649"
+    },
+    {
+      "id": "arxiv_2604.26922v1",
+      "title": "On the Learning Curves of Revenue Maximization",
+      "authors": "Steve Hanneke, Alkis Kalavasis, Shay Moran",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26922v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905680"
+    },
+    {
+      "id": "arxiv_2604.26904v1",
+      "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
+      "authors": "Fei Bai, Huatong Song, Shuang Sun",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26904v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905722"
+    },
+    {
+      "id": "arxiv_2604.26884v1",
+      "title": "Improving Bias Correction Methods for Daily Rainfall Using a Markov Chain Approach",
+      "authors": "Danny Parsons, David Stern, Mouhamadou Bamba Sylla",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26884v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905752"
+    },
+    {
+      "id": "arxiv_2604.26867v1",
+      "title": "Function-free Optimization via Comparison Oracles",
+      "authors": "Katya Scheinberg, Zikai Xiong",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26867v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905778"
+    },
+    {
+      "id": "arxiv_2604.26864v1",
+      "title": "Stability and existence of relativistic plasma--vacuum interfaces",
+      "authors": "Paolo Secchi, Yuri Trakhinin, Tao Wang",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26864v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905801"
+    },
+    {
+      "id": "arxiv_2604.26848v1",
+      "title": "STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation",
+      "authors": "Yuxuan Tian, Yurun Jin, Bin Yu",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26848v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905836"
+    },
+    {
+      "id": "arxiv_2604.26841v1",
+      "title": "Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data",
+      "authors": "Bao Pham, Mohammed J. Zaki, Luca Ambrogioni",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26841v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905861"
+    },
+    {
+      "id": "arxiv_2604.26838v1",
+      "title": "Solving Positive Linear Programs with Differential Privacy",
+      "authors": "Alina Ene, Huy Le Nguyen, Ta Duy Nguyen",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26838v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905883"
+    },
+    {
+      "id": "arxiv_2604.26835v1",
+      "title": "HalluCiteChecker: A Lightweight Toolkit for Hallucinated Citation Detection and Verification in the Era of AI Scientists",
+      "authors": "Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26835v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905903"
+    },
+    {
+      "id": "arxiv_2604.26811v1",
+      "title": "Do News and Social Media Tell the Same Story? Constructing and Comparing Sentiment Spillover Networks",
+      "authors": "Fan Wu, Anqi Liu, Maggie Chen",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26811v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905924"
+    },
+    {
+      "id": "arxiv_2604.26794v1",
+      "title": "The Influence of the Fractal Dimension on Dust Evolution in Protoplanetary Disks",
+      "authors": "J. E. Schöll, C. P. Dullemond, C. Dominik",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26794v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905944"
+    },
+    {
+      "id": "arxiv_2604.26782v1",
+      "title": "Deep Policy Iteration for High-Dimensional Mean-Field Games with Regenerative Reformulation",
+      "authors": "Shuixin Fang, Shupeng Wang, Zhen Wu",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26782v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905967"
+    },
+    {
+      "id": "arxiv_2604.26759v1",
+      "title": "A New Location Estimator for Mixed LOS & NLOS scenarios",
+      "authors": "Gaurav Duggal, Richard M. Buehrer, Harpreet S. Dhillon",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26759v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.905988"
+    },
+    {
+      "id": "arxiv_2604.26723v1",
+      "title": "On the binary relations defined using GD1 and 1GD inverses over infinite dimensional vector spaces",
+      "authors": "Diego Alba Alonso, Javier Sánchez González",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26723v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.906006"
+    },
+    {
+      "id": "arxiv_2604.26711v1",
+      "title": "Observation of Non-Markovian Evolution of Tripartite Quantum Steering",
+      "authors": "Yan Wang, Shao-qi Lin, Rui-qi Shen",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26711v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.906036"
+    },
+    {
+      "id": "arxiv_2604.26689v1",
+      "title": "Atomic-Probe Governance for Skill Updates in Compositional Robot Policies",
+      "authors": "Xue Qin, Simin Luan, John See",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26689v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.906058"
+    },
+    {
+      "id": "arxiv_2604.26679v1",
+      "title": "MultEval: Supporting Collaborative Alignment for LLM-as-a-Judge Evaluation Criteria",
+      "authors": "Charles Chiang, Simret Gebreegziabher, Annalisa Szymanski",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26679v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.906088"
+    },
+    {
+      "id": "arxiv_2604.26675v1",
+      "title": "Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification",
+      "authors": "Ralntion Komini, Aikaterini Mandilara, Georgios Maragkopoulos",
+      "date": "2026-04-29",
+      "url": "https://arxiv.org/abs/2604.26675v1",
+      "source": "arXiv",
+      "added_at": "2026-05-01T00:16:44.906109"
+    },
+    {
+      "id": "oa_W7130909909",
+      "title": "MOTIVASI LATIHAN TAEKWONDO PADA DOJANG SADDAD TCKABUPATEN PRINGSEWU PROVINSI LAMPUNG",
+      "authors": "ZANNAH NADYYATUL",
+      "date": "2026-12-10",
+      "url": "https://openalex.org/W7130909909",
+      "source": "OpenAlex",
+      "added_at": "2026-05-01T00:16:57.391894"
+    },
+    {
+      "id": "oa_W7157175742",
+      "title": "ОРГАНІЗАЦІЙНО-МЕТОДИЧНІ УМОВИ ВДОСКОНАЛЕННЯ ГНУЧКОСТІ В ЗДОБУВАЧІВ ВИЩОЇ ОСВІТИ",
+      "authors": "М. В. Корота",
+      "date": "2026-04-28",
+      "url": "https://doi.org/10.26661/2663-5925-2026-1-10",
+      "source": "OpenAlex",
+      "added_at": "2026-05-01T00:16:57.391908"
+    },
+    {
+      "id": "oa_W7157069601",
+      "title": "Effect of feedback-enhanced reflective journaling on self-regulation and perceived performance among Taekwondo athletes",
+      "authors": "Ryu Seok, Sung‐Un Park, Jeong-Hyeon Kwak",
+      "date": "2026-04-28",
+      "url": "https://doi.org/10.1186/s40359-026-04575-6",
+      "source": "OpenAlex",
+      "added_at": "2026-05-01T00:16:57.391913"
+    },
+    {
+      "id": "oa_W7157005751",
+      "title": "The Effects of Service Encounter in Beauty Shops on Emotional Responses and Customer Trust",
+      "authors": "Ji-Min Son, In-Hee Lee",
+      "date": "2026-04-28",
+      "url": "https://doi.org/10.52660/jksc.2026.32.2.335",
+      "source": "OpenAlex",
+      "added_at": "2026-05-01T00:16:58.106296"
+    },
+    {
+      "id": "oa_W7156880684",
+      "title": "The Effects of Women’s Eyelash Beauty Treatment Motivation on Behavioral Intention: The Mediating Role of Post-Treatment Satisfaction",
+      "authors": "Ji-Hye Cho, Mi-Ock Woo",
+      "date": "2026-04-28",
+      "url": "https://doi.org/10.52660/jksc.2026.32.2.579",
+      "source": "OpenAlex",
+      "added_at": "2026-05-01T00:16:58.106309"
+    },
+    {
+      "id": "crossref_10.29381_0103-8559_20213101143-6",
+      "title": "O AFETO NEGATIVO E UM CORAÇÃO PARTIDO: O PAPEL DA PSICOLOGIA NA ATUAÇÃO COM A SÍNDROME DE TAKOTSUBO",
+      "authors": ", Gabos P, Fregonese A",
+      "date": "2121-04-01",
+      "url": "https://doi.org/10.29381/0103-8559/20213101143-6",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643242"
+    },
+    {
+      "id": "crossref_10.47870_1519-7522_2021280139-43",
+      "title": "HIPERTENSÃO RENOVASCULAR LEVANDO À NEFRECTOMIA UNILATERAL: RELATO DE CASO",
+      "authors": ", Santiago Faria R, ",
+      "date": "2121-04-01",
+      "url": "https://doi.org/10.47870/1519-7522/2021280139-43",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643295"
+    },
+    {
+      "id": "crossref_10.53943_elcv.0121_10",
+      "title": "A língua portuguesa e a identidade do assimilado em Angola: algumas leituras a partir do conto «Mestre Tamoda», de Uanhenga Xitu",
+      "authors": "Magalhães de Paula M, da Silva Rodrigues L",
+      "date": "2121",
+      "url": "https://doi.org/10.53943/elcv.0121_10",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643306"
+    },
+    {
+      "id": "crossref_10.15556_ijsim.01.01.005",
+      "title": "Do beliefs affect customers’ intentions to choose green hotels?",
+      "authors": "Tilikidou E, Delistavrou A",
+      "date": "2114-12-10",
+      "url": "https://doi.org/10.15556/ijsim.01.01.005",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643314"
+    },
+    {
+      "id": "crossref_10.15556_ijsim.01.04.002",
+      "title": "How do consumers perceive a/an logotype/emblem in the advertisements: an eye tracking study",
+      "authors": "Girisken Y, Bulut D",
+      "date": "2114",
+      "url": "https://doi.org/10.15556/ijsim.01.04.002",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643320"
+    },
+    {
+      "id": "crossref_10.14393_edufu-978-85-7078-218-2",
+      "title": "VII ENCONTRO NACIONAL PERSPECTIVAS DO ENSINO DE HISTÓRIA: ENSINO DE HISTÓRIA, CIDADANIA E CONSCIÊNCIA HISTÓRICA",
+      "authors": "FONSECA S",
+      "date": "2099-12-31",
+      "url": "https://doi.org/10.14393/edufu-978-85-7078-218-2",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643327"
+    },
+    {
+      "id": "crossref_10.24824_978854440624.3",
+      "title": "FORMAÇÃO INICIAL DE PROFESSORES DE EDUCAÇÃO FÍSICA: experiências do PIBID/UFSCAR",
+      "authors": "Donizete Alves F, Moreira de Souza Júnior O",
+      "date": "2051",
+      "url": "https://doi.org/10.24824/978854440624.3",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643332"
+    },
+    {
+      "id": "crossref_10.7199_ped.oncall.2027.28",
+      "title": "Alice in Wonderland Syndrome - When the mind deceives us",
+      "authors": "Couto I, Monteiro J, Tavares C",
+      "date": "2027",
+      "url": "https://doi.org/10.7199/ped.oncall.2027.28",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643341"
+    },
+    {
+      "id": "crossref_10.7199_ped.oncall.2027.8",
+      "title": "Thigh Abscess Post-vaccination - Do Not Forget Tuberculosis!",
+      "authors": "Gandhi D, Gupta A, Nalwalla Z",
+      "date": "2027",
+      "url": "https://doi.org/10.7199/ped.oncall.2027.8",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643346"
+    },
+    {
+      "id": "crossref_10.4070_kcj.2025.0259",
+      "title": "Real-World Outcomes of Cryoballoon vs. Radiofrequency Ablation in Atrial Fibrillation: A Multicenter Propensity-Matched Analysis of Short- and Long-term Efficacy",
+      "authors": "Kim Y, Jeong J, Lim H",
+      "date": "2027",
+      "url": "https://doi.org/10.4070/kcj.2025.0259",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643351"
+    },
+    {
+      "id": "crossref_10.1504_ijpelec.2027.10076800",
+      "title": "Single-phase common-ground-based buck-boost inverter",
+      "authors": "N.A. H, Nguyen K, Do D",
+      "date": "2027",
+      "url": "https://doi.org/10.1504/ijpelec.2027.10076800",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643355"
+    },
+    {
+      "id": "crossref_10.1504_ejie.2027.10077966",
+      "title": "Preference-Based Distributionally Robust Joint Chance Constrained Programming for the Ventilation Planning Problem",
+      "authors": "Lee J, Chung B",
+      "date": "2027",
+      "url": "https://doi.org/10.1504/ejie.2027.10077966",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643358"
+    },
+    {
+      "id": "crossref_10.18574_nyu_9781479830336-018",
+      "title": "Introduction",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.18574/nyu/9781479830336-018",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643362"
+    },
+    {
+      "id": "crossref_10.18574_nyu_9781479833863-009",
+      "title": "Epilogue",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.18574/nyu/9781479833863-009",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643365"
+    },
+    {
+      "id": "crossref_10.3366_9781399547673-014",
+      "title": "11 Where Do We Go Now?",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.3366/9781399547673-014",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643368"
+    },
+    {
+      "id": "crossref_10.18574_nyu_9781479830336-002",
+      "title": "2 Textual Analysis",
+      "authors": "Douglas S",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.18574/nyu/9781479830336-002",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643372"
+    },
+    {
+      "id": "crossref_10.18574_nyu_9781479830336-006",
+      "title": "5 At the First Sign",
+      "authors": "Gray J",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.18574/nyu/9781479830336-006",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643375"
+    },
+    {
+      "id": "crossref_10.18574_nyu_9781479830336-025",
+      "title": "Introduction",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.18574/nyu/9781479830336-025",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643378"
+    },
+    {
+      "id": "crossref_10.1515_9780691281032-010",
+      "title": "Notes",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.1515/9780691281032-010",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643381"
+    },
+    {
+      "id": "crossref_10.1515_9780691253558-012",
+      "title": "Bibliography",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.1515/9780691253558-012",
+      "source": "CrossRef",
+      "added_at": "2026-05-01T00:17:18.643384"
+    },
+    {
       "id": "pubmed_41650687",
       "title": "The second-to-fourth digit ratio (2D:4D) does not distinguish licensed taekwondo athletes from age-matched sedentary individuals",
       "authors": "Tasdemir R, Oztürk C, Poyraz ES",
@@ -38,20 +443,65 @@
     }
   ],
   "seen_urls": [
-    "https://pubmed.ncbi.nlm.nih.gov/42048377/",
+    "https://arxiv.org/abs/2604.26782v1",
+    "https://arxiv.org/abs/2604.26884v1",
+    "https://doi.org/10.18574/nyu/9781479833863-009",
+    "https://arxiv.org/abs/2604.26904v1",
+    "https://arxiv.org/abs/2604.26864v1",
+    "https://doi.org/10.3366/9781399547673-014",
+    "https://doi.org/10.18574/nyu/9781479830336-025",
     "https://pubmed.ncbi.nlm.nih.gov/41650687/",
+    "https://arxiv.org/abs/2604.26675v1",
+    "https://doi.org/10.7199/ped.oncall.2027.28",
+    "https://doi.org/10.26661/2663-5925-2026-1-10",
+    "https://doi.org/10.53943/elcv.0121_10",
+    "https://doi.org/10.24824/978854440624.3",
+    "https://doi.org/10.7199/ped.oncall.2027.8",
+    "https://arxiv.org/abs/2604.26835v1",
+    "https://arxiv.org/abs/2604.26867v1",
+    "https://doi.org/10.1515/9780691253558-012",
+    "https://doi.org/10.15556/ijsim.01.01.005",
+    "https://doi.org/10.52660/jksc.2026.32.2.579",
+    "https://arxiv.org/abs/2604.26689v1",
+    "https://openalex.org/W7130909909",
+    "https://doi.org/10.52660/jksc.2026.32.2.335",
+    "https://arxiv.org/abs/2604.26841v1",
+    "https://doi.org/10.14393/edufu-978-85-7078-218-2",
+    "https://arxiv.org/abs/2604.26935v1",
+    "https://arxiv.org/abs/2604.26950v1",
+    "https://pubmed.ncbi.nlm.nih.gov/42050747/",
+    "https://doi.org/10.1504/ijpelec.2027.10076800",
+    "https://arxiv.org/abs/2604.26794v1",
     "https://pubmed.ncbi.nlm.nih.gov/41570870/",
-    "https://pubmed.ncbi.nlm.nih.gov/42050747/"
+    "https://arxiv.org/abs/2604.26679v1",
+    "https://arxiv.org/abs/2604.26711v1",
+    "https://arxiv.org/abs/2604.26922v1",
+    "https://doi.org/10.4070/kcj.2025.0259",
+    "https://arxiv.org/abs/2604.26723v1",
+    "https://doi.org/10.29381/0103-8559/20213101143-6",
+    "https://pubmed.ncbi.nlm.nih.gov/42048377/",
+    "https://doi.org/10.18574/nyu/9781479830336-018",
+    "https://arxiv.org/abs/2604.26759v1",
+    "https://doi.org/10.15556/ijsim.01.04.002",
+    "https://doi.org/10.18574/nyu/9781479830336-006",
+    "https://doi.org/10.1515/9780691281032-010",
+    "https://arxiv.org/abs/2604.26838v1",
+    "https://doi.org/10.18574/nyu/9781479830336-002",
+    "https://arxiv.org/abs/2604.26848v1",
+    "https://arxiv.org/abs/2604.26811v1",
+    "https://doi.org/10.1504/ejie.2027.10077966",
+    "https://doi.org/10.47870/1519-7522/2021280139-43",
+    "https://doi.org/10.1186/s40359-026-04575-6"
   ],
-  "last_updated": "2026-05-01T00:03:30.864952",
+  "last_updated": "2026-05-01T00:17:29.434973",
   "stats": {
-    "total": 4,
-    "new_today": 2,
+    "total": 49,
+    "new_today": 45,
     "sources": {
-      "pubmed": 4,
-      "arxiv": 0,
-      "semantic_scholar": 0,
-      "doaj": 0
+      "arXiv": 20,
+      "OpenAlex": 5,
+      "CrossRef": 20,
+      "PubMed": 4
     }
   }
 }
