@@ -358,6 +358,12 @@ def build_html(data):
     <button class="filter-btn" onclick="filterSource('arxiv', this)">arXiv</button>
     <button class="filter-btn" onclick="filterSource('semantic-scholar', this)">Scholar</button>
     <button class="filter-btn" onclick="filterSource('doaj', this)">DOAJ</button>
+    <button class="filter-btn" onclick="filterSource('openalex', this)">OpenAlex</button>
+    <button class="filter-btn" onclick="filterSource('europe-pmc', this)">Europe PMC</button>
+    <button class="filter-btn" onclick="filterSource('dergipark', this)">Dergipark</button>
+    <button class="filter-btn" onclick="filterSource('core', this)">CORE</button>
+    <button class="filter-btn" onclick="filterSource('crossref', this)">CrossRef</button>
+    <button class="filter-btn" onclick="filterSource('kci', this)">KCI</button>
     <input class="search-box" type="text" placeholder="🔍 Başlık veya yazar ara..." oninput="searchPapers(this.value)" />
   </div>
 
