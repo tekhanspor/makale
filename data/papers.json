@@ -1,6 +1,24 @@
 {
   "papers": [
     {
+      "id": "pubmed_41650687",
+      "title": "The second-to-fourth digit ratio (2D:4D) does not distinguish licensed taekwondo athletes from age-matched sedentary individuals",
+      "authors": "Tasdemir R, Oztürk C, Poyraz ES",
+      "date": "2026 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41650687/",
+      "source": "PubMed",
+      "added_at": "2026-05-01T00:03:08.514831"
+    },
+    {
+      "id": "pubmed_41570870",
+      "title": "The relationship between mindfulness, competitive anxiety, and self-efficacy in Taekwondo athletes with/without injury: The moderated mediation model",
+      "authors": "Yu J, Nien JT, Chu MY",
+      "date": "2026 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41570870/",
+      "source": "PubMed",
+      "added_at": "2026-05-01T00:03:08.514844"
+    },
+    {
       "id": "pubmed_42050747",
       "title": "Effect of feedback-enhanced reflective journaling on self-regulation and perceived performance among Taekwondo athletes",
       "authors": "Seok R, Park SU, Kwak JH",
@@ -21,14 +39,16 @@
   ],
   "seen_urls": [
     "https://pubmed.ncbi.nlm.nih.gov/42048377/",
+    "https://pubmed.ncbi.nlm.nih.gov/41650687/",
+    "https://pubmed.ncbi.nlm.nih.gov/41570870/",
     "https://pubmed.ncbi.nlm.nih.gov/42050747/"
   ],
-  "last_updated": "2026-04-30T11:55:21.187041",
+  "last_updated": "2026-05-01T00:03:30.864952",
   "stats": {
-    "total": 2,
-    "new_today": 0,
+    "total": 4,
+    "new_today": 2,
     "sources": {
-      "pubmed": 2,
+      "pubmed": 4,
       "arxiv": 0,
       "semantic_scholar": 0,
       "doaj": 0
