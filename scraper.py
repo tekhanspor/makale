@@ -109,34 +109,6 @@ def fetch_pubmed(keywords, days_back, seen_urls):
     print(f"  ✓ {len(papers)} yeni makale")
     return papers
 
-# ─── 2. arXiv ────────────────────────────────────────────────────────────────
-def fetch_arxiv(keywords, days_back, seen_urls):
-    print("\n📘 arXiv taranıyor...")
-    papers = []
-    query = "+OR+".join(urllib.parse.quote(k) for k in keywords[:4])
-    raw = fetch_url(f"https://export.arxiv.org/api/query?search_query=all:{query}&sortBy=submittedDate&sortOrder=descending&max_results=20")
-    if not raw: return papers
-    try:
-        ns = {"atom": "http://www.w3.org/2005/Atom"}
-        cutoff = datetime.utcnow() - timedelta(days=days_back)
-        for entry in ET.fromstring(raw).findall("atom:entry", ns):
-            pub = entry.findtext("atom:published","",ns)
-            try:
-                if datetime.strptime(pub[:10],"%Y-%m-%d") < cutoff: continue
-            except: continue
-            pid = entry.findtext("atom:id","",ns).replace("http://","https://")
-            if pid in seen_urls: continue
-            authors = [a.findtext("atom:name","",ns) for a in entry.findall("atom:author",ns)]
-            papers.append({
-                "id": f"arxiv_{pid.split('/')[-1]}",
-                "title": entry.findtext("atom:title","",ns).strip().replace("\n"," "),
-                "authors": ", ".join(authors[:3]), "date": pub[:10],
-                "url": pid, "source": "arXiv", "added_at": datetime.utcnow().isoformat()
-            })
-    except Exception as e: print(f"  ✗ {e}")
-    print(f"  ✓ {len(papers)} yeni makale")
-    return papers
-
 # ─── 3. Semantic Scholar ──────────────────────────────────────────────────────
 def fetch_semantic_scholar(keywords, days_back, seen_urls):
     print("\n📙 Semantic Scholar taranıyor...")
@@ -438,7 +410,6 @@ def main():
     new_papers = []
 
     new_papers += fetch_pubmed(KEYWORDS, DAYS_BACK, seen_urls);       time.sleep(1)
-    new_papers += fetch_arxiv(KEYWORDS, DAYS_BACK, seen_urls);        time.sleep(1)
     new_papers += fetch_semantic_scholar(KEYWORDS, DAYS_BACK, seen_urls); time.sleep(1)
     new_papers += fetch_doaj(KEYWORDS, DAYS_BACK, seen_urls);         time.sleep(1)
     new_papers += fetch_openalex(KEYWORDS, DAYS_BACK, seen_urls);     time.sleep(1)
