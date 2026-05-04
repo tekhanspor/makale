@@ -1,6 +1,246 @@
 {
-  "papers": [],
-  "seen_urls": [],
-  "last_updated": null,
-  "stats": {"total": 0, "new_today": 0, "sources": {}}
+  "papers": [
+    {
+      "id": "pubmed_41650687",
+      "title": "The second-to-fourth digit ratio (2D:4D) does not distinguish licensed taekwondo athletes from age-matched sedentary individuals",
+      "authors": "Tasdemir R, Oztürk C, Poyraz ES",
+      "date": "2026 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41650687/",
+      "source": "PubMed",
+      "added_at": "2026-05-04T04:01:16.636731"
+    },
+    {
+      "id": "pubmed_41570870",
+      "title": "The relationship between mindfulness, competitive anxiety, and self-efficacy in Taekwondo athletes with/without injury: The moderated mediation model",
+      "authors": "Yu J, Nien JT, Chu MY",
+      "date": "2026 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41570870/",
+      "source": "PubMed",
+      "added_at": "2026-05-04T04:01:16.636746"
+    },
+    {
+      "id": "oa_W7130909909",
+      "title": "MOTIVASI LATIHAN TAEKWONDO PADA DOJANG SADDAD TCKABUPATEN PRINGSEWU PROVINSI LAMPUNG",
+      "authors": "ZANNAH NADYYATUL",
+      "date": "2026-12-10",
+      "url": "https://openalex.org/W7130909909",
+      "source": "OpenAlex",
+      "added_at": "2026-05-04T04:01:33.588988"
+    },
+    {
+      "id": "crossref_10.29381_0103-8559_20213101143-6",
+      "title": "O AFETO NEGATIVO E UM CORAÇÃO PARTIDO: O PAPEL DA PSICOLOGIA NA ATUAÇÃO COM A SÍNDROME DE TAKOTSUBO",
+      "authors": ", Gabos P, Fregonese A",
+      "date": "2121-04-01",
+      "url": "https://doi.org/10.29381/0103-8559/20213101143-6",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528867"
+    },
+    {
+      "id": "crossref_10.47870_1519-7522_2021280139-43",
+      "title": "HIPERTENSÃO RENOVASCULAR LEVANDO À NEFRECTOMIA UNILATERAL: RELATO DE CASO",
+      "authors": ", Santiago Faria R, ",
+      "date": "2121-04-01",
+      "url": "https://doi.org/10.47870/1519-7522/2021280139-43",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528884"
+    },
+    {
+      "id": "crossref_10.53943_elcv.0121_10",
+      "title": "A língua portuguesa e a identidade do assimilado em Angola: algumas leituras a partir do conto «Mestre Tamoda», de Uanhenga Xitu",
+      "authors": "Magalhães de Paula M, da Silva Rodrigues L",
+      "date": "2121",
+      "url": "https://doi.org/10.53943/elcv.0121_10",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528890"
+    },
+    {
+      "id": "crossref_10.15556_ijsim.01.01.005",
+      "title": "Do beliefs affect customers’ intentions to choose green hotels?",
+      "authors": "Tilikidou E, Delistavrou A",
+      "date": "2114-12-10",
+      "url": "https://doi.org/10.15556/ijsim.01.01.005",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528895"
+    },
+    {
+      "id": "crossref_10.15556_ijsim.01.04.002",
+      "title": "How do consumers perceive a/an logotype/emblem in the advertisements: an eye tracking study",
+      "authors": "Girisken Y, Bulut D",
+      "date": "2114",
+      "url": "https://doi.org/10.15556/ijsim.01.04.002",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528899"
+    },
+    {
+      "id": "crossref_10.14393_edufu-978-85-7078-218-2",
+      "title": "VII ENCONTRO NACIONAL PERSPECTIVAS DO ENSINO DE HISTÓRIA: ENSINO DE HISTÓRIA, CIDADANIA E CONSCIÊNCIA HISTÓRICA",
+      "authors": "FONSECA S",
+      "date": "2099-12-31",
+      "url": "https://doi.org/10.14393/edufu-978-85-7078-218-2",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528903"
+    },
+    {
+      "id": "crossref_10.24824_978854440624.3",
+      "title": "FORMAÇÃO INICIAL DE PROFESSORES DE EDUCAÇÃO FÍSICA: experiências do PIBID/UFSCAR",
+      "authors": "Donizete Alves F, Moreira de Souza Júnior O",
+      "date": "2051",
+      "url": "https://doi.org/10.24824/978854440624.3",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528908"
+    },
+    {
+      "id": "crossref_10.1016_j.fuel.2026.139689",
+      "title": "Effects of hydrogen addition on combustion and emission characteristics of diesel–air mixtures in a rapid compression machine",
+      "authors": "Do S, Lin J, Wang W",
+      "date": "2027-01",
+      "url": "https://doi.org/10.1016/j.fuel.2026.139689",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528917"
+    },
+    {
+      "id": "crossref_10.7199_ped.oncall.2027.28",
+      "title": "Alice in Wonderland Syndrome - When the mind deceives us",
+      "authors": "Couto I, Monteiro J, Tavares C",
+      "date": "2027",
+      "url": "https://doi.org/10.7199/ped.oncall.2027.28",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528922"
+    },
+    {
+      "id": "crossref_10.7199_ped.oncall.2027.8",
+      "title": "Thigh Abscess Post-vaccination - Do Not Forget Tuberculosis!",
+      "authors": "Gandhi D, Gupta A, Nalwalla Z",
+      "date": "2027",
+      "url": "https://doi.org/10.7199/ped.oncall.2027.8",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528926"
+    },
+    {
+      "id": "crossref_10.4070_kcj.2025.0259",
+      "title": "Real-World Outcomes of Cryoballoon vs. Radiofrequency Ablation in Atrial Fibrillation: A Multicenter Propensity-Matched Analysis of Short- and Long-term Efficacy",
+      "authors": "Kim Y, Jeong J, Lim H",
+      "date": "2027",
+      "url": "https://doi.org/10.4070/kcj.2025.0259",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528930"
+    },
+    {
+      "id": "crossref_10.1504_ijpelec.2027.10076800",
+      "title": "Single-phase common-ground-based buck-boost inverter",
+      "authors": "N.A. H, Nguyen K, Do D",
+      "date": "2027",
+      "url": "https://doi.org/10.1504/ijpelec.2027.10076800",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528934"
+    },
+    {
+      "id": "crossref_10.1504_ejie.2027.10077966",
+      "title": "Preference-Based Distributionally Robust Joint Chance Constrained Programming for the Ventilation Planning Problem",
+      "authors": "Lee J, Chung B",
+      "date": "2027",
+      "url": "https://doi.org/10.1504/ejie.2027.10077966",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528937"
+    },
+    {
+      "id": "crossref_10.3366_9781399547673-014",
+      "title": "11 Where Do We Go Now?",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.3366/9781399547673-014",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528940"
+    },
+    {
+      "id": "crossref_10.18574_nyu_9781479830336-018",
+      "title": "Introduction",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.18574/nyu/9781479830336-018",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528944"
+    },
+    {
+      "id": "crossref_10.18574_nyu_9781479833863-009",
+      "title": "Epilogue",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.18574/nyu/9781479833863-009",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528947"
+    },
+    {
+      "id": "crossref_10.18574_nyu_9781479830336-002",
+      "title": "2 Textual Analysis",
+      "authors": "Douglas S",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.18574/nyu/9781479830336-002",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528950"
+    },
+    {
+      "id": "crossref_10.18574_nyu_9781479830336-006",
+      "title": "5 At the First Sign",
+      "authors": "Gray J",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.18574/nyu/9781479830336-006",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528953"
+    },
+    {
+      "id": "crossref_10.18574_nyu_9781479830336-025",
+      "title": "Introduction",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.18574/nyu/9781479830336-025",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528956"
+    },
+    {
+      "id": "crossref_10.1515_9780691281032-010",
+      "title": "Notes",
+      "authors": "",
+      "date": "2026-12-31",
+      "url": "https://doi.org/10.1515/9780691281032-010",
+      "source": "CrossRef",
+      "added_at": "2026-05-04T04:01:55.528959"
+    }
+  ],
+  "seen_urls": [
+    "https://doi.org/10.1515/9780691281032-010",
+    "https://doi.org/10.18574/nyu/9781479830336-002",
+    "https://doi.org/10.47870/1519-7522/2021280139-43",
+    "https://doi.org/10.3366/9781399547673-014",
+    "https://doi.org/10.4070/kcj.2025.0259",
+    "https://doi.org/10.18574/nyu/9781479833863-009",
+    "https://doi.org/10.18574/nyu/9781479830336-018",
+    "https://doi.org/10.1504/ejie.2027.10077966",
+    "https://pubmed.ncbi.nlm.nih.gov/41650687/",
+    "https://openalex.org/W7130909909",
+    "https://doi.org/10.1016/j.fuel.2026.139689",
+    "https://pubmed.ncbi.nlm.nih.gov/41570870/",
+    "https://doi.org/10.1504/ijpelec.2027.10076800",
+    "https://doi.org/10.15556/ijsim.01.04.002",
+    "https://doi.org/10.7199/ped.oncall.2027.8",
+    "https://doi.org/10.24824/978854440624.3",
+    "https://doi.org/10.7199/ped.oncall.2027.28",
+    "https://doi.org/10.53943/elcv.0121_10",
+    "https://doi.org/10.18574/nyu/9781479830336-006",
+    "https://doi.org/10.29381/0103-8559/20213101143-6",
+    "https://doi.org/10.14393/edufu-978-85-7078-218-2",
+    "https://doi.org/10.15556/ijsim.01.01.005",
+    "https://doi.org/10.18574/nyu/9781479830336-025"
+  ],
+  "last_updated": "2026-05-04T04:02:21.506281",
+  "stats": {
+    "total": 23,
+    "new_today": 23,
+    "sources": {
+      "PubMed": 2,
+      "OpenAlex": 1,
+      "CrossRef": 20
+    }
+  }
 }
