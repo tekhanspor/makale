@@ -1,6 +1,15 @@
 {
   "papers": [
     {
+      "id": "pubmed_42076908",
+      "title": "The Effect of an 8-Week Cognitively Engaging Exercise Intervention on Conflict Inhibition in College Students With Depressive Symptoms: A Randomized Controlled Trial",
+      "authors": "Guo Z, Yun S, Xie Z",
+      "date": "2026 May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42076908/",
+      "source": "PubMed",
+      "added_at": "2026-05-04T12:11:35.403558"
+    },
+    {
       "id": "pubmed_41650687",
       "title": "The second-to-fourth digit ratio (2D:4D) does not distinguish licensed taekwondo athletes from age-matched sedentary individuals",
       "authors": "Tasdemir R, Oztürk C, Poyraz ES",
@@ -209,36 +218,37 @@
     }
   ],
   "seen_urls": [
-    "https://doi.org/10.1515/9780691281032-010",
-    "https://doi.org/10.18574/nyu/9781479830336-002",
-    "https://doi.org/10.47870/1519-7522/2021280139-43",
-    "https://doi.org/10.3366/9781399547673-014",
-    "https://doi.org/10.4070/kcj.2025.0259",
-    "https://doi.org/10.18574/nyu/9781479833863-009",
-    "https://doi.org/10.18574/nyu/9781479830336-018",
-    "https://doi.org/10.1504/ejie.2027.10077966",
-    "https://pubmed.ncbi.nlm.nih.gov/41650687/",
     "https://openalex.org/W7130909909",
-    "https://doi.org/10.1016/j.fuel.2026.139689",
-    "https://pubmed.ncbi.nlm.nih.gov/41570870/",
-    "https://doi.org/10.1504/ijpelec.2027.10076800",
     "https://doi.org/10.15556/ijsim.01.04.002",
-    "https://doi.org/10.7199/ped.oncall.2027.8",
-    "https://doi.org/10.24824/978854440624.3",
     "https://doi.org/10.7199/ped.oncall.2027.28",
-    "https://doi.org/10.53943/elcv.0121_10",
-    "https://doi.org/10.18574/nyu/9781479830336-006",
     "https://doi.org/10.29381/0103-8559/20213101143-6",
+    "https://doi.org/10.7199/ped.oncall.2027.8",
+    "https://doi.org/10.1016/j.fuel.2026.139689",
+    "https://doi.org/10.18574/nyu/9781479833863-009",
+    "https://doi.org/10.1504/ejie.2027.10077966",
+    "https://doi.org/10.1504/ijpelec.2027.10076800",
+    "https://doi.org/10.1515/9780691281032-010",
+    "https://doi.org/10.53943/elcv.0121_10",
+    "https://doi.org/10.18574/nyu/9781479830336-002",
+    "https://doi.org/10.3366/9781399547673-014",
+    "https://doi.org/10.47870/1519-7522/2021280139-43",
+    "https://doi.org/10.18574/nyu/9781479830336-018",
     "https://doi.org/10.14393/edufu-978-85-7078-218-2",
+    "https://pubmed.ncbi.nlm.nih.gov/41570870/",
+    "https://doi.org/10.18574/nyu/9781479830336-025",
+    "https://doi.org/10.4070/kcj.2025.0259",
+    "https://pubmed.ncbi.nlm.nih.gov/42076908/",
+    "https://doi.org/10.18574/nyu/9781479830336-006",
+    "https://pubmed.ncbi.nlm.nih.gov/41650687/",
     "https://doi.org/10.15556/ijsim.01.01.005",
-    "https://doi.org/10.18574/nyu/9781479830336-025"
+    "https://doi.org/10.24824/978854440624.3"
   ],
-  "last_updated": "2026-05-04T04:02:21.506281",
+  "last_updated": "2026-05-04T12:12:34.309048",
   "stats": {
-    "total": 23,
-    "new_today": 23,
+    "total": 24,
+    "new_today": 1,
     "sources": {
-      "PubMed": 2,
+      "PubMed": 3,
       "OpenAlex": 1,
       "CrossRef": 20
     }
