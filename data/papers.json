@@ -1,6 +1,33 @@
 {
   "papers": [
     {
+      "id": "oa_W7160459042",
+      "title": "Journeys of two children from West to East: Notes of a Teacher-Parent",
+      "authors": "Khan, Katherine E, Dr",
+      "date": "2026-05-05",
+      "url": "https://openalex.org/W7160459042",
+      "source": "OpenAlex",
+      "added_at": "2026-05-08T10:54:48.098125"
+    },
+    {
+      "id": "oa_W7160419767",
+      "title": "Neuromuscular Performance Characteristics of Elite Colombian Sunfish Sailors: A Pilot Study",
+      "authors": "Samuel Hormiga López, Alex Ojeda-Aravena, María Alejandra Camacho-Villa",
+      "date": "2026-05-05",
+      "url": "https://doi.org/10.3390/sports14050182",
+      "source": "OpenAlex",
+      "added_at": "2026-05-08T10:54:48.098139"
+    },
+    {
+      "id": "crossref_10.1016_j.fuel.2026.139763",
+      "title": "Hydrogen-rich producer gas from air- and steam-blown co-gasification of waste polypropylene pyrolysis oil and cashew nut shell in a two-stage downdraft gasifier",
+      "authors": "Yoon J, Kim J, Kwon E",
+      "date": "2027-01",
+      "url": "https://doi.org/10.1016/j.fuel.2026.139763",
+      "source": "CrossRef",
+      "added_at": "2026-05-08T10:55:09.341008"
+    },
+    {
       "id": "oa_W7160069426",
       "title": "Compressive behavior of additively manufactured circular-core chiral lattice structures with CNT-reinforced PMMA: a multi-scale analysis",
       "authors": "Mohammad Malekzadeh, Mohammad Shishehsaz, Reza Mosalmani",
@@ -236,41 +263,44 @@
     }
   ],
   "seen_urls": [
-    "https://doi.org/10.18574/nyu/9781479830336-002",
-    "https://doi.org/10.24824/978854440624.3",
+    "https://pubmed.ncbi.nlm.nih.gov/42076908/",
+    "https://doi.org/10.18574/nyu/9781479833863-009",
+    "https://doi.org/10.15556/ijsim.01.01.005",
+    "https://doi.org/10.1016/j.fuel.2026.139763",
+    "https://doi.org/10.1515/9780691281032-010",
+    "https://doi.org/10.14393/edufu-978-85-7078-218-2",
+    "https://doi.org/10.15556/ijsim.01.04.002",
+    "https://doi.org/10.18574/nyu/9781479830336-025",
+    "https://doi.org/10.53943/elcv.0121_10",
+    "https://pubmed.ncbi.nlm.nih.gov/41650687/",
+    "https://doi.org/10.1038/s41598-026-51935-8",
+    "https://doi.org/10.1007/s44447-026-00159-3",
+    "https://doi.org/10.29381/0103-8559/20213101143-6",
     "https://doi.org/10.18574/nyu/9781479830336-006",
+    "https://doi.org/10.3390/sports14050182",
+    "https://doi.org/10.7199/ped.oncall.2027.28",
     "https://doi.org/10.3366/9781399547673-014",
+    "https://pubmed.ncbi.nlm.nih.gov/41570870/",
     "https://doi.org/10.1016/j.fuel.2026.139689",
     "https://doi.org/10.4070/kcj.2025.0259",
-    "https://openalex.org/W7130909909",
-    "https://doi.org/10.18574/nyu/9781479830336-018",
-    "https://doi.org/10.47870/1519-7522/2021280139-43",
-    "https://doi.org/10.18574/nyu/9781479830336-025",
-    "https://doi.org/10.29381/0103-8559/20213101143-6",
-    "https://pubmed.ncbi.nlm.nih.gov/41650687/",
-    "https://doi.org/10.1515/9780691281032-010",
-    "https://doi.org/10.1038/s41598-026-51935-8",
-    "https://doi.org/10.7199/ped.oncall.2027.8",
-    "https://doi.org/10.1007/s44447-026-00159-3",
     "https://doi.org/10.1504/ejie.2027.10077966",
-    "https://doi.org/10.14393/edufu-978-85-7078-218-2",
+    "https://doi.org/10.47870/1519-7522/2021280139-43",
     "https://doi.org/10.1504/ijpelec.2027.10076800",
-    "https://doi.org/10.15556/ijsim.01.01.005",
-    "https://doi.org/10.15556/ijsim.01.04.002",
-    "https://doi.org/10.18574/nyu/9781479833863-009",
-    "https://doi.org/10.7199/ped.oncall.2027.28",
-    "https://pubmed.ncbi.nlm.nih.gov/41570870/",
-    "https://pubmed.ncbi.nlm.nih.gov/42076908/",
-    "https://doi.org/10.53943/elcv.0121_10"
+    "https://openalex.org/W7160459042",
+    "https://openalex.org/W7130909909",
+    "https://doi.org/10.18574/nyu/9781479830336-002",
+    "https://doi.org/10.18574/nyu/9781479830336-018",
+    "https://doi.org/10.7199/ped.oncall.2027.8",
+    "https://doi.org/10.24824/978854440624.3"
   ],
-  "last_updated": "2026-05-07T12:21:35.674749",
+  "last_updated": "2026-05-08T10:55:37.227492",
   "stats": {
-    "total": 26,
-    "new_today": 2,
+    "total": 29,
+    "new_today": 3,
     "sources": {
-      "OpenAlex": 3,
-      "PubMed": 3,
-      "CrossRef": 20
+      "OpenAlex": 5,
+      "CrossRef": 21,
+      "PubMed": 3
     }
   }
 }
