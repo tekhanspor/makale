@@ -1,6 +1,69 @@
 {
   "papers": [
     {
+      "id": "pubmed_42103446",
+      "title": "Incidence of injury and illness at the Paris 2024 Paralympic Games: post-pandemic trends and sport-specific risks",
+      "authors": "Derman W, Runciman P, Eken M",
+      "date": "2026 May 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42103446/",
+      "source": "PubMed",
+      "added_at": "2026-05-09T09:57:58.335112"
+    },
+    {
+      "id": "oa_W7160559147",
+      "title": "Taekwondo Near Me: Professional Martial Arts Training for in Fairfield",
+      "authors": "Harrison Ailent",
+      "date": "2026-05-07",
+      "url": "https://doi.org/10.5281/zenodo.20065218",
+      "source": "OpenAlex",
+      "added_at": "2026-05-09T09:58:07.688998"
+    },
+    {
+      "id": "oa_W7160493086",
+      "title": "Taekwondo Near Me: Professional Martial Arts Training for in Fairfield",
+      "authors": "Harrison Ailent",
+      "date": "2026-05-07",
+      "url": "https://doi.org/10.5281/zenodo.20065219",
+      "source": "OpenAlex",
+      "added_at": "2026-05-09T09:58:07.689006"
+    },
+    {
+      "id": "oa_W7160537190",
+      "title": "Impact of sport disciplines on gut microbiota in elite athletes: evidence from Taekwondo and diving athletes",
+      "authors": "Xuelian Chen, Lihui Xie, Li B",
+      "date": "2026-05-07",
+      "url": "https://doi.org/10.3389/fmicb.2026.1770499",
+      "source": "OpenAlex",
+      "added_at": "2026-05-09T09:58:07.689010"
+    },
+    {
+      "id": "oa_W7160503791",
+      "title": "The Arts as a Pathway to Inclusive Kindergarten Sexuality Education",
+      "authors": "Matthew Yanko",
+      "date": "2026-05-06",
+      "url": "https://doi.org/10.18357/jcs513202621781",
+      "source": "OpenAlex",
+      "added_at": "2026-05-09T09:58:07.689013"
+    },
+    {
+      "id": "oa_W7160402413",
+      "title": "Use of anodal transcranial direct current stimulation for improving motor performance in healthy adults: A systematic review and meta-analysis",
+      "authors": "Atsushi Sasaki, Takuya Ideriha, Atsuya Matsuoka",
+      "date": "2026-05-06",
+      "url": "https://doi.org/10.64898/2026.05.01.722354",
+      "source": "OpenAlex",
+      "added_at": "2026-05-09T09:58:07.689017"
+    },
+    {
+      "id": "crossref_10.1016_j.fuel.2026.139799",
+      "title": "Development of non-noble methane oxidation catalysts CoMn2O4/Sr3Fe2O7-δ/α-Al2O3",
+      "authors": "Kim S, Ji E, Choi Y",
+      "date": "2027-01",
+      "url": "https://doi.org/10.1016/j.fuel.2026.139799",
+      "source": "CrossRef",
+      "added_at": "2026-05-09T09:58:31.352556"
+    },
+    {
       "id": "oa_W7160459042",
       "title": "Journeys of two children from West to East: Notes of a Teacher-Parent",
       "authors": "Khan, Katherine E, Dr",
@@ -263,44 +326,51 @@
     }
   ],
   "seen_urls": [
-    "https://pubmed.ncbi.nlm.nih.gov/42076908/",
-    "https://doi.org/10.18574/nyu/9781479833863-009",
+    "https://doi.org/10.24824/978854440624.3",
+    "https://doi.org/10.1515/9780691281032-010",
+    "https://doi.org/10.1016/j.fuel.2026.139799",
+    "https://doi.org/10.18574/nyu/9781479830336-025",
+    "https://doi.org/10.18574/nyu/9781479830336-018",
+    "https://doi.org/10.29381/0103-8559/20213101143-6",
+    "https://doi.org/10.3390/sports14050182",
+    "https://doi.org/10.4070/kcj.2025.0259",
+    "https://doi.org/10.53943/elcv.0121_10",
+    "https://pubmed.ncbi.nlm.nih.gov/42103446/",
+    "https://doi.org/10.1007/s44447-026-00159-3",
+    "https://doi.org/10.7199/ped.oncall.2027.28",
+    "https://pubmed.ncbi.nlm.nih.gov/41570870/",
+    "https://doi.org/10.18574/nyu/9781479830336-002",
+    "https://pubmed.ncbi.nlm.nih.gov/41650687/",
     "https://doi.org/10.15556/ijsim.01.01.005",
     "https://doi.org/10.1016/j.fuel.2026.139763",
-    "https://doi.org/10.1515/9780691281032-010",
-    "https://doi.org/10.14393/edufu-978-85-7078-218-2",
-    "https://doi.org/10.15556/ijsim.01.04.002",
-    "https://doi.org/10.18574/nyu/9781479830336-025",
-    "https://doi.org/10.53943/elcv.0121_10",
-    "https://pubmed.ncbi.nlm.nih.gov/41650687/",
-    "https://doi.org/10.1038/s41598-026-51935-8",
-    "https://doi.org/10.1007/s44447-026-00159-3",
-    "https://doi.org/10.29381/0103-8559/20213101143-6",
-    "https://doi.org/10.18574/nyu/9781479830336-006",
-    "https://doi.org/10.3390/sports14050182",
-    "https://doi.org/10.7199/ped.oncall.2027.28",
-    "https://doi.org/10.3366/9781399547673-014",
-    "https://pubmed.ncbi.nlm.nih.gov/41570870/",
-    "https://doi.org/10.1016/j.fuel.2026.139689",
-    "https://doi.org/10.4070/kcj.2025.0259",
-    "https://doi.org/10.1504/ejie.2027.10077966",
     "https://doi.org/10.47870/1519-7522/2021280139-43",
+    "https://doi.org/10.18574/nyu/9781479833863-009",
+    "https://doi.org/10.5281/zenodo.20065218",
+    "https://doi.org/10.1016/j.fuel.2026.139689",
+    "https://doi.org/10.14393/edufu-978-85-7078-218-2",
+    "https://doi.org/10.1504/ejie.2027.10077966",
+    "https://doi.org/10.5281/zenodo.20065219",
     "https://doi.org/10.1504/ijpelec.2027.10076800",
-    "https://openalex.org/W7160459042",
+    "https://doi.org/10.18357/jcs513202621781",
+    "https://doi.org/10.18574/nyu/9781479830336-006",
     "https://openalex.org/W7130909909",
-    "https://doi.org/10.18574/nyu/9781479830336-002",
-    "https://doi.org/10.18574/nyu/9781479830336-018",
+    "https://doi.org/10.3366/9781399547673-014",
+    "https://openalex.org/W7160459042",
+    "https://doi.org/10.64898/2026.05.01.722354",
+    "https://doi.org/10.1038/s41598-026-51935-8",
+    "https://pubmed.ncbi.nlm.nih.gov/42076908/",
+    "https://doi.org/10.3389/fmicb.2026.1770499",
     "https://doi.org/10.7199/ped.oncall.2027.8",
-    "https://doi.org/10.24824/978854440624.3"
+    "https://doi.org/10.15556/ijsim.01.04.002"
   ],
-  "last_updated": "2026-05-08T10:55:37.227492",
+  "last_updated": "2026-05-09T09:58:56.947479",
   "stats": {
-    "total": 29,
-    "new_today": 3,
+    "total": 36,
+    "new_today": 7,
     "sources": {
-      "OpenAlex": 5,
-      "CrossRef": 21,
-      "PubMed": 3
+      "PubMed": 4,
+      "OpenAlex": 10,
+      "CrossRef": 22
     }
   }
 }
